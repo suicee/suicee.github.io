@@ -25,8 +25,8 @@ I am a graduate student in the Department of Astronomy at Tsinghua University, C
 My primary research interest is on utilizing machine learning techniques and statistical methods, such as Simulation-based Inference, information theory, and generative models, to address various data challenges in the field of astronomy. During my first three years of PhD, I have worked on serveral projects:
 
 * the application of image segmentation techniques for RFI mitigation
-* implementing Simulation-based Inference (SBI) methods for parameter inference of EoR
-* utilizing mutual information for evaluating cosmological statistics.
+* implementing Simulation-based Inference (SBI) methods for parameter inference of EoR [paper in prep][[github](https://github.com/suicee/21cmNRE)]
+* utilizing mutual information for evaluating cosmological statistics [journal paper in prep][[conference paper](https://arxiv.org/abs/2307.04994)][[github](https://github.com/suicee/MI4StatsEval)]
 
 I am very intereted in machine learning. I have been organizing the Data Science Group at THU-DOA for the past two years. We have been exploring various topics in this field, which can be found in our [repo](https://github.com/ZechangSun/THU-DoA-DATA-SCIENCE). We are open to collaborations with anyone interested in applying these techniques to solve data analysis problems.
 
