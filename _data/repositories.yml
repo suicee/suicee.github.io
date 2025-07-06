@@ -3,6 +3,8 @@ github_users:
 
 github_repos:
   - suicee/MI4StatsEval
-  - suicee/21cmNRE
-  - suicee/THU-DoA-DATA-SCIENCE
+  - suicee/21cmPipeline
+  - tlmakinen/hybridStats
+  - DeaglanBartlett/symbolic_pofk
+  - ZechangSun/THU-DoA-DATA-SCIENCE
 
