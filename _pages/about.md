@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 **This website is still under construction.**
 
-I am a graduate student in the Department of Astronomy at Tsinghua University, China since 2020, under the supervision of [Prof. Yi Mao](http://i.astro.tsinghua.edu.cn/~ymao/members/).  I am currently visting Prof. [Ben Wadnelt](https://benwandelt.org/) at Johns Hopkins University.
+I am a graduate student in the Department of Astronomy at Tsinghua University, China, since 2020, working under the supervision of [Prof. Yi Mao](http://i.astro.tsinghua.edu.cn/~ymao/members/). I am currently visiting Johns Hopkins University, where I am co-supervised by [Prof. Ben Wandelt](https://benwandelt.org/).
 
 ### Research
 
@@ -28,7 +28,7 @@ A major theme of my work is the application of information-theoretic approaches 
 
 * [**Quantifying Information Content**](https://arxiv.org/abs/2307.04994): Demonstrates how mutual information can be used to select optimal summary statistics for cosmological inference.
 * [**Extracting Complementary Information**](https://arxiv.org/abs/2410.07548): Extends the previous work by showing how to learn new summaries that are complementary to existing ones—enhancing both informativeness and interpretability.
-* [**Learning Local information**](https://github.com/suicee/FisherScoreMatching): Introduces a novel approach that uses score matching to learn the Fisher score of arbitrary models, enabling accurate Fisher forecasts without relying on explicit likelihoods.
+* [**Learning Local information**](https://arxiv.org/abs/2507.07833): Introduces a novel approach that uses score matching to learn the Fisher score of arbitrary models, enabling accurate Fisher forecasts without relying on explicit likelihoods.
 
 More recently, I’ve been exploring forward modeling techniques for cosmological analysis. One example is:
 
